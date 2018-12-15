@@ -1,0 +1,6 @@
+model_checkpoint_path: "DCGAN.model-27002"
+all_model_checkpoint_paths: "DCGAN.model-25002"
+all_model_checkpoint_paths: "DCGAN.model-25502"
+all_model_checkpoint_paths: "DCGAN.model-26002"
+all_model_checkpoint_paths: "DCGAN.model-26502"
+all_model_checkpoint_paths: "DCGAN.model-27002"
